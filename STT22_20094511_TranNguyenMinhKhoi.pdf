@@ -1,0 +1,1108 @@
+%PDF-1.4
+%‚„œ”
+
+1 0 obj
+   << 
+      /Title ()
+      /Author ()
+      /Subject ()
+      /Keywords ()
+      /Creator (FreeHEP Graphics2D Driver)
+      /Producer (com.horstmann.violet.framework.util.PDFGraphics2DStringWriter Revision)
+      /CreationDate (D:20240918164734+07'00')
+      /ModDate (D:20240918164734+07'00')
+      /Trapped /False
+   >>
+endobj
+
+2 0 obj
+   << 
+      /Type /Catalog
+      /Pages 3 0 R
+      /Outlines 4 0 R
+      /PageMode /UseOutlines
+      /ViewerPreferences 5 0 R
+      /OpenAction [6 0 R /Fit]
+   >>
+endobj
+
+5 0 obj
+   << 
+      /FitWindow true
+      /CenterWindow false
+   >>
+endobj
+
+6 0 obj
+   << 
+      /Parent 3 0 R
+      /Type /Page
+      /Contents 7 0 R
+   >>
+endobj
+
+7 0 obj
+   << 
+      /Length 8 0 R
+   >>
+stream
+.95604 0.0000 0.0000 -.95604 27.253 890.00 cm
+q
+0.0000 0.0000 m
+1240.0 0.0000 l
+1240.0 910.00 l
+0.0000 910.00 l
+h
+W
+n
+q
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+Q
+q
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+0.0000 0.0000 m
+0.0000 910.00 l
+1240.0 910.00 l
+1240.0 0.0000 l
+h
+W
+n
+1.0000 0.0000 0.0000 1.0000 -70.000 -0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+70.000 0.0000 m
+1311.0 0.0000 l
+1311.0 911.00 l
+70.000 911.00 l
+70.000 0.0000 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+480.00 550.00 m
+780.00 550.00 l
+780.00 910.00 l
+480.00 910.00 l
+480.00 550.00 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+480.00 550.00 m
+780.00 550.00 l
+780.00 910.00 l
+480.00 910.00 l
+480.00 550.00 l
+h
+S
+480.50 590.50 m
+780.50 590.50 l
+S
+480.50 650.50 m
+780.50 650.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 480.00 550.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 109.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(PhongThiNghiem) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -480.00 -550.00 cm
+1.0000 0.0000 0.0000 1.0000 480.00 590.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Attribute>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#bonRua: boolean) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -480.00 -590.00 cm
+1.0000 0.0000 0.0000 1.0000 480.00 650.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 31.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property get>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 47.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getBonRua\(\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 63.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 79.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property set>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 95.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setBonRua\(bonRua: boolean\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 111.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 127.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Constructor>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 143.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+PhongThiNghiem\(\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 159.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+PhongThiNghiem\(maPhong: String, dayNha: String, ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 175.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(dienTich: double, soBD: int, bonRua: boolean\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 191.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 207.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Methods>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 223.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+XetBonRua\(\): abstract boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 239.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+toString\(\): String) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -480.00 -650.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+70.000 190.00 m
+350.00 190.00 l
+350.00 550.00 l
+70.000 550.00 l
+70.000 190.00 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+70.000 190.00 m
+350.00 190.00 l
+350.00 550.00 l
+70.000 550.00 l
+70.000 190.00 l
+h
+S
+70.500 230.50 m
+350.50 230.50 l
+S
+70.500 290.50 m
+350.50 290.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 70.000 190.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 105.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(PhongMayTinh) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -70.000 -190.00 cm
+1.0000 0.0000 0.0000 1.0000 70.000 230.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Attribute>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#mayTinh: boolean) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -70.000 -230.00 cm
+1.0000 0.0000 0.0000 1.0000 70.000 290.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 31.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property get>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 47.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getMayTinh\(\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 63.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 79.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property set>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 95.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setMayTInh\(mayTinh: boolean\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 111.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 127.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Constructor>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 143.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+PhongMayTinh\(\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 159.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+PhongMayTinh\(maPhong: String, dayNha: String, ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 175.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(dienTich: double, soBD: int, mayTinh: boolean\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 191.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 207.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Methods>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 223.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+XetMayTinh\(\): abstract boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 239.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+toString\(\): String) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -70.000 -290.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+930.00 180.00 m
+1310.0 180.00 l
+1310.0 540.00 l
+930.00 540.00 l
+930.00 180.00 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+930.00 180.00 m
+1310.0 180.00 l
+1310.0 540.00 l
+930.00 540.00 l
+930.00 180.00 l
+h
+S
+930.50 220.50 m
+1310.5 220.50 l
+S
+930.50 280.50 m
+1310.5 280.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 930.00 180.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 153.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(PhongLyThuyet) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -930.00 -180.00 cm
+1.0000 0.0000 0.0000 1.0000 930.00 220.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 27.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Attribute>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 43.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#mayChieu: boolean) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -930.00 -220.00 cm
+1.0000 0.0000 0.0000 1.0000 930.00 280.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 31.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property get>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 47.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getMayChieu\(\): boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 63.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 79.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property set>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 95.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setMayChieu\(mayChieu: boolean\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 111.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 127.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Constructor>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 143.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+PhongLyThuyet\(\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 159.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+PhongLyThuyet\(maPhong: String, dayNha: String, dienTich: double, ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 175.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(soBD: int, mayChieu: boolean\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 191.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+() Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 207.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Methods>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 223.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+XetMayChieu\(\): abstract boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 239.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+toString\(\): String) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -930.00 -280.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+510.00 0.0000 m
+750.00 0.0000 l
+750.00 480.00 l
+510.00 480.00 l
+510.00 0.0000 l
+h
+f
+/Alpha1 gs
+.74902 .74902 .74902 rg
+.74902 .74902 .74902 RG
+510.00 0.0000 m
+750.00 0.0000 l
+750.00 480.00 l
+510.00 480.00 l
+510.00 0.0000 l
+h
+S
+510.50 40.500 m
+750.50 40.500 l
+S
+510.50 140.50 m
+750.50 140.50 l
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 510.00 0.0000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 109.00 25.000 cm
+BT
+0.0000 0.0000 Td
+/F1 12.000 Tf
+(Phong) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -510.00 -0.0000 cm
+1.0000 0.0000 0.0000 1.0000 510.00 40.000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 23.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Attribute>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#maPhong: String) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 55.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#dayNha: String) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 71.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#dienTich: double) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 87.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(#soBD: int) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -510.00 -40.000 cm
+1.0000 0.0000 0.0000 1.0000 510.00 140.00 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 23.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property get>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 39.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getMaPhong\(\): String) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 55.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getDayNha\(\): String) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 71.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getDienTich\(\): double) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 87.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+getSoBD\(\): int) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 103.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<property set>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 119.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setMaPhong\(maPhong: String\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 135.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setDayNha\(dayNha: String\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 151.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setDienTich\(dienTich: double\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 167.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+setSoBD\(soBD: int\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 183.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Constructor>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 199.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+Phong\(\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 215.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+Phong\(maPhong: String, dayNha: String, ) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 231.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(dienTich: double, soBD: int\)) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 247.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(<<Methods>>) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 263.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+datChuan\(\): abstract boolean) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 279.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+tieuDePLT\(\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 295.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+tieuDePMT\(\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 311.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+tieuDePTN\(\): void) Tj
+ET
+Q
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 327.00 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(+toString\(\): String) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -510.00 -140.00 cm
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+510.00 240.00 m
+430.00 240.00 l
+430.00 370.00 l
+350.00 370.00 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+510.00 240.00 m
+501.34 235.00 l
+501.34 245.00 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+510.00 240.00 m
+501.34 235.00 l
+501.34 245.00 l
+h
+S
+750.00 240.00 m
+840.00 240.00 l
+840.00 360.00 l
+930.00 360.00 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+750.00 240.00 m
+758.66 245.00 l
+758.66 235.00 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+750.00 240.00 m
+758.66 245.00 l
+758.66 235.00 l
+h
+S
+630.00 480.00 m
+630.00 550.00 l
+S
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+630.00 480.00 m
+625.00 488.66 l
+635.00 488.66 l
+h
+f
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+630.00 480.00 m
+625.00 488.66 l
+635.00 488.66 l
+h
+S
+1.0000 0.0000 0.0000 1.0000 0.0000 0.0000 cm
+/Alpha1 gs
+.99608 .87059 .73725 rg
+.99608 .87059 .73725 RG
+160.00 70.000 m
+372.00 70.000 l
+380.00 78.000 l
+380.00 110.00 l
+160.00 110.00 l
+h
+f
+/Alpha1 gs
+.99216 .72941 .44314 rg
+.99216 .72941 .44314 RG
+160.00 70.000 m
+372.00 70.000 l
+380.00 78.000 l
+380.00 110.00 l
+160.00 110.00 l
+h
+S
+/Alpha1 gs
+1.0000 1.0000 1.0000 rg
+1.0000 1.0000 1.0000 RG
+372.00 70.000 m
+372.00 78.000 l
+380.00 78.000 l
+h
+f
+/Alpha1 gs
+.99216 .72941 .44314 rg
+.99216 .72941 .44314 RG
+372.00 70.000 m
+372.00 78.000 l
+380.00 78.000 l
+h
+S
+/Alpha1 gs
+.20000 .20000 .20000 rg
+.20000 .20000 .20000 RG
+1.0000 0.0000 0.0000 1.0000 160.00 70.000 cm
+q
+1.0000 0.0000 0.0000 -1.0000 2.0000 25.000 cm
+BT
+0.0000 0.0000 Td
+/F2 12.000 Tf
+(STT22_20094511_TranNguyenMinhKhoi) Tj
+ET
+Q
+1.0000 0.0000 0.0000 1.0000 -160.00 -70.000 cm
+/Alpha1 gs
+0.0000 0.0000 0.0000 rg
+0.0000 0.0000 0.0000 RG
+1.0000 0.0000 0.0000 1.0000 -0.0000 -0.0000 cm
+Q
+Q
+
+endstream
+endobj
+
+8 0 obj
+   15362
+endobj
+
+9 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F1
+      /BaseFont /Helvetica-Bold
+      /Encoding 10 0 R
+   >>
+endobj
+
+11 0 obj
+   << 
+      /Type /Font
+      /Subtype /Type1
+      /Name /F2
+      /BaseFont /Helvetica
+      /Encoding 10 0 R
+   >>
+endobj
+
+10 0 obj
+   << 
+      /Type /Encoding
+      /Differences [0 /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /breve /caron /circumflex /dotaccent /hungarumlaut /ogonek /ring /tilde /space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quotesingle /parenleft /parenright /asterisk /plus /comma /hyphen /period /slash /zero /one /two /three /four /five /six /seven /eight /nine /colon /semicolon /less /equal /greater /question /at /A /B /C /D /E /F /G /H /I /J /K /L /M /N /O /P /Q /R /S /T /U /V /W /X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore /grave /a /b /c /d /e /f /g /h /i /j /k /l /m /n /o /p /q /r /s /t /u /v /w /x /y /z /braceleft /bar /braceright /asciitilde /.notdef /bullet /dagger /daggerdbl /ellipsis /emdash /endash /florin /fraction /guilsinglleft /guilsinglright /minus /perthousand /quotedblbase /quotedblleft /quotedblright /quoteleft /quoteright /quotesinglbase /trademark /fi /fl /Lslash /OE /Scaron /Ydieresis /Zcaron /dotlessi /lslash /oe /scaron /zcaron /.notdef /Euro /exclamdown /cent /sterling /currency /yen /brokenbar /section /dieresis /copyright /ordfeminine /guillemotleft /logicalnot /.notdef /registered /macron /degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered /cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown /Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla /Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis /Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply /Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls /agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla /egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis /eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide /oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+   >>
+endobj
+
+3 0 obj
+   << 
+      /Parent null
+      /Type /Pages
+      /MediaBox [0.0000 0.0000 1240.0 910.00]
+      /Resources 12 0 R
+      /Kids [6 0 R]
+      /Count 1
+   >>
+endobj
+
+13 0 obj
+   [/PDF /Text /ImageC]
+endobj
+
+14 0 obj
+   << 
+      /F1 9 0 R
+      /F2 11 0 R
+   >>
+endobj
+
+15 0 obj
+   << 
+      /Alpha1
+      << 
+         /ca 1.0000
+         /CA 1.0000
+         /BM /Normal
+         /AIS false
+      >>
+   >>
+endobj
+
+12 0 obj
+   << 
+      /ProcSet 13 0 R
+      /Font 14 0 R
+      /ExtGState 15 0 R
+   >>
+endobj
+
+4 0 obj
+   << 
+      /Type /Outlines
+      /First 16 0 R
+      /Last 16 0 R
+   >>
+endobj
+
+16 0 obj
+   << 
+      /Parent 4 0 R
+      /Title (Page 1 \(untitled\))
+      /Prev null
+      /Next null
+      /Dest [6 0 R /Fit]
+   >>
+endobj
+
+xref
+0 17
+0000000000 65535 f
+0000000019 00000 n
+0000000373 00000 n
+0000018656 00000 n
+0000019213 00000 n
+0000000566 00000 n
+0000000650 00000 n
+0000000747 00000 n
+0000016183 00000 n
+0000016212 00000 n
+0000016508 00000 n
+0000016362 00000 n
+0000019110 00000 n
+0000018839 00000 n
+0000018884 00000 n
+0000018954 00000 n
+0000019311 00000 n
+
+trailer
+<< 
+   /Size 16
+   /Root 2 0 R
+   /Info 1 0 R
+>>
+
+startxref
+19465
+
+%%EOF
